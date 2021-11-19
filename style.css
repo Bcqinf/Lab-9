@@ -1,0 +1,19 @@
+@charset "utf-8";
+/* CSS Document */
+.head{
+	border: dashed medium;
+	font-family: kaiti;
+}
+
+.footer{
+	margin: 10px;
+	text-align: center;
+	
+}
+
+.t1{
+	border: solid #CCCCCC;
+	border: 1;
+	text-align: left;
+	
+}
